@@ -1,7 +1,6 @@
 # Personal Nutrition Advisor using AI
 
 This web-based application leverages artificial intelligence to provide personalized nutrition advice based on user inputs.
-
 ## Features
 
 - **User-Friendly Interface:** *Intuitive web interface for inputting personal health data.*
